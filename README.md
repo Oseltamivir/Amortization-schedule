@@ -1,3 +1,12 @@
+# Amortization schedule simulator
+
+I noticed a lack of tool to visualize how changes in parameters of a loan affect the proportion of interest or propotion of principal.
+
+This tool shows the principal and interest paid each year in real-time
+
+
+
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
